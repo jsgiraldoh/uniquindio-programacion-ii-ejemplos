@@ -19,7 +19,7 @@ public class Aplicacion {
 	 * 
 	 * @param args Argumentos de la linea de comandos
 	 */
-	public static void main(String args[]) {
+	public static void mai5n(String args[]) {
 		double base;
 		double altura;
 		double area = 0;
